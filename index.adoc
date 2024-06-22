@@ -1,0 +1,11 @@
+---
+sidebar: sidebar
+permalink: index.html
+keywords: 
+summary: "summary, used for search results"
+---
+= replace with repository name
+:icons: font
+:imagesdir: ./media/
+
+[.lead] 
